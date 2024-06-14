@@ -2,17 +2,6 @@
 I'm Youngcheol Han, major in EECE, Bachelor degree\
 I interested in Embedded Software and Robotics
 
-studied : Robotics, Kinematics, Circuit Design, Signal Processing, Control Systems, MicroProcessor, PCB artwork\
-Embedded : AVR, STM32F4, ESP32\
-extend : EKF, BLDC motor control, Path planning
-  
-Languages:\
-  English (Intermediate), Korean (Native)
-  
-Activities :\
-  Sports : Baseball - 6y, Tennis - 2y, Long Board - 1y, Suff - 1y\
-  Club : Band Drummer - 4y
-  
 |||
 |:---|:---|
 | Enviroment | Window, Ubuntu |
@@ -25,6 +14,17 @@ Activities :\
 | contact | <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> hych0609@gmail.com |
 
 
+studied : Robotics, Kinematics, Circuit Design, Signal Processing, Control Systems, MicroProcessor, PCB artwork\
+Embedded : AVR, STM32F4, ESP32\
+extend : EKF, BLDC motor control, Path planning
+  
+Languages:\
+  English (Intermediate), Korean (Native)
+  
+Activities :\
+  Sports : Baseball - 6y, Tennis - 2y, Long Board - 1y, Suff - 1y\
+  Club : Band Drummer - 4y
+  
 <!--
 **OProcessing/OProcessing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
