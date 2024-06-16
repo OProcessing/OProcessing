@@ -22,7 +22,7 @@ Languages:\
   English (Intermediate), Korean (Native)
   
 Activities :\
-  Sports : Baseball - 6y, Tennis - 2y, Long Board - 1y
+  Sports : Baseball - 6y, Tennis - 2y, Long Board - 1y\
   Club : Band Drummer - 4y
   
 <!--
