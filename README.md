@@ -15,7 +15,7 @@ I interested in Embedded Software and Robotics
 
 
 studied : Robotics, Kinematics, Circuit Design, Signal Processing, Control Systems, MicroProcessor, PCB artwork\
-Embedded : AVR, STM32F4, ESP32\
+Embedded : AVR, Arm-Cortex M series, ESP32\
 extend : EKF, BLDC motor control, Path planning
   
 Languages:\
