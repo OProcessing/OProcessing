@@ -19,10 +19,11 @@ Embedded : AVR, Arm-Cortex M series, ESP32\
 extend : EKF, BLDC motor control, Path planning\
 interested in : Swarm-Robot, Humanoid, Control Theory\
 Project Experience : 
-[Drone hovoring](https://github.com/OProcessing/Quad-DIY)
-[Data analysis](https://github.com/addinedu-ros-5th/eda-repo-1)
-[Machine Learning](https://github.com/addinedu-ros-5th/deeplearning-repo-4)
-[Multi Robot Control](https://github.com/addinedu-ros-5th/ros-repo-1)
+[[Drone hovoring]](https://github.com/OProcessing/Quad-DIY) 
+[[Data analysis]](https://github.com/addinedu-ros-5th/eda-repo-1) 
+[[Machine Learning]](https://github.com/addinedu-ros-5th/deeplearning-repo-4) 
+[[Multi Robot Control]](https://github.com/addinedu-ros-5th/ros-repo-1)
+
 Languages:\
   English (Intermediate), Korean (Native)
   
