@@ -10,15 +10,19 @@ I interested in Embedded Software and Robotics
 | Software | vscode, STM32cubeIDE, matlab, ROS2-humble, rviz, gazebo |
 | Machine Learning | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> |
 | Tools | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"> |
-| DB | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
-| contact | <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> hych0609@gmail.com |
+| DataBase | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
+| contact | hych0609@gmail.com, hych0609@naver.com |
 
 
 studied : Robotics, Kinematics, Circuit Design, Signal Processing, Control Systems, MicroProcessor, PCB artwork\
 Embedded : AVR, Arm-Cortex M series, ESP32\
 extend : EKF, BLDC motor control, Path planning\
-interested in : Swarm-Robot, Humanoid, Control Theory
-  
+interested in : Swarm-Robot, Humanoid, Control Theory\
+Project Experience : 
+[Drone hovoring](https://github.com/OProcessing/Quad-DIY)
+[Data analysis](https://github.com/addinedu-ros-5th/eda-repo-1)
+[Machine Learning](https://github.com/addinedu-ros-5th/deeplearning-repo-4)
+[Multi Robot Control](https://github.com/addinedu-ros-5th/ros-repo-1)
 Languages:\
   English (Intermediate), Korean (Native)
   
