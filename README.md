@@ -1,6 +1,7 @@
 # Hi there 👋
 I'm Youngcheol Han, major in EECE, Bachelor degree\
-I interested in Embedded Software and Robotics
+I interested in Embedded Software and Robotics\
+show me in [notion](https://www.notion.so/Hi-I-m-Han-dbbbee3b444b4b92b23fb477b3d1621f)
 
 |||
 |:---|:---|
