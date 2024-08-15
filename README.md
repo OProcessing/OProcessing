@@ -5,13 +5,12 @@ look me in [notion](https://www.notion.so/Hi-I-m-Han-dbbbee3b444b4b92b23fb477b3d
 
 |||
 |:---|:---|
-| OS | Window, Ubuntu, Docker |
-| Language | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
+| OS | Window, Ubuntu, ROS2-humble, Docker |
+| Language | C/C++, Python |
 | Embedded | AVR, ARM Cortex-M4, ESP32 |
-| Software | vscode, STM32cubeIDE, matlab, ROS2-humble, rviz, gazebo |
-| Machine Learning | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> |
-| Tools | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"> |
-| DataBase | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
+| Software | vscode, STM32cubeIDE, matlab, rviz, gazebo |
+| Machine Learning | Tensorflow, YOLO |
+| DataBase | AWS, MySQL |
 | contact | hych0609@gmail.com, hych0609@naver.com |
 
 
@@ -23,7 +22,7 @@ Project Experience :
 [[Drone hovoring]](https://github.com/OProcessing/Quad-DIY) 
 
 Languages:\
-  English (Intermediate), Korean (Native)
+  English, Korean
   
 Activities :\
   Sports : Baseball - 6y, Tennis - 2y, Long Board - 1y\
