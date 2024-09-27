@@ -8,3 +8,4 @@ I'm interested in Embedded System and Robotics
 | Language | C/C++, Python |
 | Embedded | AVR, ARM Cortex-M4, ESP32 |
 | Env | VSCode, STM32cubeIDE, matlab |
+| Tools | Git, Confluence, MySQL |
