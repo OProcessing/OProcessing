@@ -10,4 +10,4 @@ I'm interested in Embedded System and Robotics
 | Env | VSCode, STM32cubeIDE, matlab |
 | Tools | Git, Docker, Confluence, MySQL |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OProcessing)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OProcessing)
