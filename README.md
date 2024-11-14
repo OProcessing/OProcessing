@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Youngcheol Han, major in EECE, Bachelor degree\
+I'm Youngcheol Han, major in EECE\
 I'm interested in Embedded System and Robotics
 
 |||
