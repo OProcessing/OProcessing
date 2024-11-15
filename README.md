@@ -1,7 +1,8 @@
 # Hi there 👋
-I'm Youngcheol Han, major in EECE\
+I'm yc Han, major in EECE\
 I'm interested in Embedded System and Robotics\
-and Embedded FW/SW engineer
+
+Embedded FW/SW engineer
 
 Field : MCU, Robot\
 C, C++, Python\
