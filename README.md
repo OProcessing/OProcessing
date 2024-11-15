@@ -1,8 +1,7 @@
 # Hi there 👋
-I'm yc Han, major in EECE\
+I'm yc Han, Embedded FW/SW engineer in Seoul, Korea
 I'm interested in Embedded System and Robotics\
 
-Embedded FW/SW engineer
 
 Field : MCU, Robot\
 C, C++, Python\
