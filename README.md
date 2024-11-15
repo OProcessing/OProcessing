@@ -11,7 +11,7 @@ PID control, Complementary Filter, Kalman Filter\
 ROS2, MachineLearning, openRMF
 
 Now study\
-Radio Frequency, Radar Detection, GPS\
-updated at 14th Nov
+Radio Frequency, Radar Detection, CFAR filtering, GPS\
+updated at 15th Nov
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OProcessing)
