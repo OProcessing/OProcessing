@@ -1,6 +1,6 @@
 # Hi there 👋
-I'm yc Han, Embedded FW/SW engineer in Seoul, Korea
-I'm interested in Embedded System and Robotics\
+I'm yc Han, Embedded FW/SW engineer in Seoul, Korea\
+I'm interested in Embedded System and Robotics
 
 
 Field : MCU, Robot\
