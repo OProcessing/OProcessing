@@ -13,6 +13,6 @@ ROS2, MachineLearning, openRMF
 Now study\
 Wireless, BT&BLE, WiFi, TCP/IP\
 Operating System, Data structure, Computer Architecture\
-updated at 17th Dec
+updated at 30th Dec
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OProcessing)
