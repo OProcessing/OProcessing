@@ -12,8 +12,8 @@ PID control, Complementary Filter, Kalman Filter, CFAR\
 ROS2, MachineLearning, openRMF
 
 Now studing\
-Wireless, BT&BLE, WiFi, TCP/IP\
+Wireless communication,  WiFi, TCP/IP\
 Data structure, Operating System, Computer Architecture\
-updated at 2nd, Jan
+updated at 13th, Jan
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OProcessing)
